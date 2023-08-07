@@ -54,5 +54,4 @@ Otro punto de mejora es realizar mobile el responsive de la aplicacion.
 
 ## Conclusion
 
-El desarrollo de la aplicacions llevo acabo creando un repositorio en gitHub y se utilizo gitFlow para trabajo en ramas, siendo la rama main de produccion y develop la rama de desarrollo.
 A su vez encuentro provechoso avanzar con el estudio sobre la hidratacion y la gerarquia de componentes dentro de nextJs, a su vez el sistema de ruteo que brinda con app router es muy versatil con el sistema de ficheros. Por otro lado, hubo momentos bloqueantes:  al momento de hacer la configuracion con la Api, se podria haber establecido un manejador de rutas, creando un fichero Api y dentro una ruta para hacer la conexion con la Api, pero considere que al ser una aplicacion que no va escalar en ese sentido hacer uso de un custom hook y que este maneje la peticion.
